@@ -986,15 +986,15 @@ header {
 }
 
 .contacts-body__item--1 {
-  background: url(/img/icon/map.svg) left no-repeat;
+  background: url(../img/icon/map.svg) left no-repeat;
 }
 
 .contacts-body__item--2 {
-  background: url(/img/icon/mail.svg) left no-repeat;
+  background: url(../img/icon/mail.svg) left no-repeat;
 }
 
 .contacts-body__item--3 {
-  background: url(/img/icon/tel.svg) left no-repeat;
+  background: url(../img/icon/tel.svg) left no-repeat;
 }
 
 .contacts-social {
